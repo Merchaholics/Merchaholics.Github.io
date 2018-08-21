@@ -11,7 +11,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Kar98</h5>
-            <p class="card-text">Playerunknown's Battlegrounds kar98 10cm replica</p>
+            <p class="card-text">Playerunknown's Battlegrounds kar98 10cm keychain</p>
             <a target="_blank" href="img/kar98.4fdf483b.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
@@ -27,7 +27,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Blades Of Chaos</h5>
-            <p class="card-text">God of War Blades of Chaos replica keychain</p>
+            <p class="card-text">God of War Blades of Chaos keychain</p>
             <a target="_blank" href="img/blades.e43a5fc2.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
@@ -75,7 +75,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">AKM</h5>
-            <p class="card-text">Playerunknown's Battlegrounds AKM 10cm replica</p>
+            <p class="card-text">Playerunknown's Battlegrounds AKM 10cm keychain</p>
             <a target="_blank" href="img/akm10cm.e9f7f128.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
@@ -91,7 +91,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">AWM</h5>
-            <p class="card-text">Playerunknown's Battlegrounds AWM 10cm replica</p>
+            <p class="card-text">Playerunknown's Battlegrounds AWM 10cm keychain</p>
             <a target="_blank" href="img/awm10cm.20466d47.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
@@ -107,7 +107,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Kar98 Shark Skin</h5>
-            <p class="card-text">Playerunknown's Battlegrounds Kar98 Shark Skin 10cm replica</p>
+            <p class="card-text">Playerunknown's Battlegrounds Kar98 Shark Skin 12cm keychain</p>
             <a target="_blank" href="img/karshark.eb114df3.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
@@ -123,7 +123,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">AWM with stand</h5>
-            <p class="card-text">Playerunknown's Battlegrounds AWM 17cm replica with stand</p>
+            <p class="card-text">Playerunknown's Battlegrounds AWM 17cm with stand</p>
             <a target="_blank" href="img/awm17cm.a7919881.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 10.00</p>
@@ -136,11 +136,11 @@
           <div class="card-body">
             <img alt="Merchaholics logo"
                  src="../assets/akm21cm.jpg"
-                 height="200px">
+                 height="175px">
             <hr>
             <h5 class="card-title">AKM with silencer</h5>
-            <p class="card-text">Playerunknown's Battlegrounds AKM 21cm replica with silencer</p>
-            <a target="_blank" href="img/akm21cm.07b5843f.jpg"
+            <p class="card-text">Playerunknown's Battlegrounds AKM 21cm with silencer</p>
+            <a target="_blank" href="img/akm21cm.bd185b38.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 10.00</p>
           </div>
@@ -155,7 +155,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">M24 with stand and silencer</h5>
-            <p class="card-text">Playerunknown's Battlegrounds M24 22cm replica with stand and silencer</p>
+            <p class="card-text">Playerunknown's Battlegrounds M24 22cm with stand and silencer</p>
             <a target="_blank" href="img/m24.0d3faa5e.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 15.00</p>
@@ -203,7 +203,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Rocket Launcher</h5>
-            <p class="card-text">Fortnite's Rocket launcher 17cm replica</p>
+            <p class="card-text">Fortnite's Rocket launcher 17cm</p>
             <a target="_blank" href="img/rpg.c909fcd1.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 12.00</p>
@@ -219,7 +219,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Default Pickaxe</h5>
-            <p class="card-text">Fortnite's default pickaxe 12cm replica keychain</p>
+            <p class="card-text">Fortnite's default pickaxe 12cm keychain</p>
             <a target="_blank" href="img/ogpick.ea1e3f1e.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 6.00</p>
@@ -235,7 +235,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Sawtooth</h5>
-            <p class="card-text">Fortnite's sawtooth pickaxe 12cm replica keychain</p>
+            <p class="card-text">Fortnite's sawtooth pickaxe 12cm keychain</p>
             <a target="_blank" href="img/sawtooth.3279759f.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 6.00</p>
@@ -283,7 +283,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Millennium Falcon</h5>
-            <p class="card-text">Star Wars Millennium Falcon replica</p>
+            <p class="card-text">Star Wars Millennium Falcon keychain</p>
             <a target="_blank" href="img/millenium.147709ae.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>

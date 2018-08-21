@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/store">Merch</router-link>
+      <router-link to="/merch">Merch</router-link>
     </div>
     <router-view/>
     <footer class="container">
