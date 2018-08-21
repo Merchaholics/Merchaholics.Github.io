@@ -124,7 +124,7 @@
             <hr>
             <h5 class="card-title">AWM with stand</h5>
             <p class="card-text">Playerunknown's Battlegrounds AWM 17cm replica with stand</p>
-            <a target="_blank" href="img/awm17cm.d31ab904.jpg"
+            <a target="_blank" href="img/awm17cm.a7919881.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 10.00</p>
           </div>
