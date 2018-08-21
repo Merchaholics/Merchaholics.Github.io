@@ -222,7 +222,7 @@
             <p class="card-text">Fortnite's default pickaxe 12cm replica keychain</p>
             <a target="_blank" href="img/ogpick.ea1e3f1e.jpg"
                class="btn btn-orange">View Large</a>
-            <p class="money"><i class="fal fa-euro-sign"></i> 7.00</p>
+            <p class="money"><i class="fal fa-euro-sign"></i> 6.00</p>
           </div>
         </div>
       </div>
@@ -238,7 +238,7 @@
             <p class="card-text">Fortnite's sawtooth pickaxe 12cm replica keychain</p>
             <a target="_blank" href="img/sawtooth.3279759f.jpg"
                class="btn btn-orange">View Large</a>
-            <p class="money"><i class="fal fa-euro-sign"></i> 7.00</p>
+            <p class="money"><i class="fal fa-euro-sign"></i> 6.00</p>
           </div>
         </div>
       </div>
@@ -286,7 +286,7 @@
             <p class="card-text">Star Wars Millennium Falcon replica</p>
             <a target="_blank" href="img/millenium.147709ae.jpg"
                class="btn btn-orange">View Large</a>
-            <p class="money"><i class="fal fa-euro-sign"></i> 7.00</p>
+            <p class="money"><i class="fal fa-euro-sign"></i> 5.00</p>
           </div>
         </div>
       </div>
