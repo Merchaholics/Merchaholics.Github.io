@@ -126,7 +126,7 @@
             <p class="card-text">Playerunknown's Battlegrounds AWM 17cm replica with stand</p>
             <a target="_blank" href="img/awm17cm.d31ab904.jpg"
                class="btn btn-orange">View Large</a>
-            <p class="money"><i class="fal fa-euro-sign"></i> 12.00</p>
+            <p class="money"><i class="fal fa-euro-sign"></i> 10.00</p>
           </div>
         </div>
       </div>
@@ -142,7 +142,7 @@
             <p class="card-text">Playerunknown's Battlegrounds AKM 21cm replica with silencer</p>
             <a target="_blank" href="img/akm21cm.07b5843f.jpg"
                class="btn btn-orange">View Large</a>
-            <p class="money"><i class="fal fa-euro-sign"></i> 12.00</p>
+            <p class="money"><i class="fal fa-euro-sign"></i> 10.00</p>
           </div>
         </div>
       </div>

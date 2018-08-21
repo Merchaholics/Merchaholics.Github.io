@@ -8,7 +8,7 @@
     <router-view/>
     <footer class="container">
       <hr>
-      <p>© 2018 Merchaholics</p>
+      <p>© 2018</p>
     </footer>
   </div>
 </template>
