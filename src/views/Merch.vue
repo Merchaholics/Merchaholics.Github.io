@@ -267,7 +267,7 @@
                  height="200px">
             <hr>
             <h5 class="card-title">Thor's Hammer</h5>
-            <p class="card-text">Thor's Hammer Replica 6cm Keychain</p>
+            <p class="card-text">Thor's Hammer Replica 4.5x10cm Keychain</p>
             <a target="_blank" href="img/thor.4929a5a5.jpg"
                class="btn btn-orange">View Large</a>
             <p class="money"><i class="fal fa-euro-sign"></i> 4.00</p>

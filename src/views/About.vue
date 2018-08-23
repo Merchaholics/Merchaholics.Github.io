@@ -14,7 +14,7 @@
         <a target="_blank" href="https://www.instagram.com/merchaholics_cy/"><i class="fab fa-instagram"
                                                              style="font-size: 40px; padding: 5px"></i></a>
         <br>
-        Check out our store, prepare you orders and collect your items.
+        Check out our merch, prepare you orders and collect your items.
         <br>
         For business enquiries please contact us here:  <a href="mailto:merchaholics@gmail.com">Merchaholics</a>
       </p>
@@ -30,8 +30,6 @@
                                                              style="font-size: 40px; padding: 5px;"></i></a>
         <a target="_blank" href="https://www.instagram.com/drakostoukafe/"><i class="fab fa-instagram"
                                                               style="font-size: 40px; padding: 5px;"></i></a>
-        <i class="fas fa-phone"
-           style="font-size: 20px; padding: 5px;"></i>97 888006
       </p>
     </div>
 
@@ -46,7 +44,6 @@
                   scrolling="no"
                   marginheight="0"
                   marginwidth="0"></iframe>
-          <a href="https://www.pureblack.de/google-maps/"></a>
         </div>
       </div>
     </div>
